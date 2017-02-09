@@ -1,1 +1,1 @@
-web: mvn spring-boot:run -Dspring.profiles.active=local
+worker: mvn spring-boot:run -Dspring.profiles.active=local
